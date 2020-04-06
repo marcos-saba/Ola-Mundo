@@ -1,0 +1,14 @@
+* {
+    font-family: "Noto Serif", Georgia, serif;
+    color: rgb(252, 85, 8); 
+}
+
+img {
+    border: 9px solid;
+}
+
+ul {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
